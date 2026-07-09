@@ -4,7 +4,7 @@
 
 My LinkedIn: https://www.linkedin.com/in/joas-antonio-dos-santos/ 
 
-Courses: http://courses.redteamleaders.com/ or http://courses.redteamleaders.com/
+Courses: http://courses.redteamleaders.com/
 
 ### LinkedIn posts
 
