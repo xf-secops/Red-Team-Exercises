@@ -218,6 +218,8 @@ https://www.linkedin.com/posts/joas-antonio-dos-santos_red-team-exercises-68-ksl
 Red Team Exercises #69 - Domain Admin via CA exploiting ESC7
 https://www.linkedin.com/posts/joas-antonio-dos-santos_redteamexercises-redteam-cybersecurity-share-7481117574282285056-9ZwZ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
 
+Red Team Exercises #70 - Using uncensored AI for AV/EDR evasion
+https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-redteamexercises-hacking-ugcPost-7496034090887020546-8k0E/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQUGCUBpvQerFv0ut2s0MSLX9IwuKJJrbU
 
 -------------------------------------------------------------------
 
